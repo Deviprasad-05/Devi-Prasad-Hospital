@@ -1,6 +1,6 @@
 **Project name  : Devi Prasad Hospital**
 
-This is a web based application developed for Devi Prasad Hospital in india
+This is a web based application developed for **Devi Prasad Hospital** in india
 
 This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
@@ -29,6 +29,7 @@ This web based health application has been developed for the accomplishment of F
 
 ![Home](https://user-images.githubusercontent.com/110979904/203506442-d0220f9c-2fc1-409e-a262-6629c676e84c.PNG)
 
+----------------------------------------------------------------------------------------------------------------------------
 **1.My Website Services**
 
 ![Services](https://user-images.githubusercontent.com/110979904/203506675-f032c58c-d942-42cf-8703-43b56853d25e.PNG)
