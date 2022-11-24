@@ -7,7 +7,7 @@ This web based health application has been developed for the accomplishment of F
 
 **Project Link :** https://lemon-forest-080830900.2.azurestaticapps.net
 
-**project demo video link : **https://youtu.be/PCutzvm0wuY
+**project demo video link :** https://youtu.be/PCutzvm0wuY
 
 ## Azure technologies used for Project
 
